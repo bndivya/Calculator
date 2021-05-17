@@ -1,3 +1,5 @@
+package com;
+
 public class Calculator {
     public int operate(int num1, int num2, String operator) {
         int result = 0;
